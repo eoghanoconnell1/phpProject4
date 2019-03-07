@@ -13,7 +13,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .fa-anchor,.fa-coffee {font-size:200px}
 </style>
 <body>
-
+  
 <!-- Navbar -->
 <div class="w3-top">
   <div class="w3-bar w3-red w3-card w3-left-align w3-large">
@@ -45,6 +45,13 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
 <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
     <h1 class="w3-margin w3-xlarge">Eoghan's Consultancy Service</h1>
+    
+    <br></br>
+    
+    
+      <a href="https://github.com/eoghanoconnell1/phpProject4.git" >Github</a>
+    <a href="https://eoghans-is1113.herokuapp.com/" >Heroku</a>
+    
 </div>
 
 
